@@ -1,0 +1,2 @@
+Model,AUC_pROC,AUC_yardstick,Optimal_Threshold,Accuracy,Precision,Recall,F1_Score,Sample_Size,Training_Sample_Size,Test_Sample_Size,Significant_Variables,Model_Complexity
+Penalty Shootout Prediction GLMM Model (Improved Version),0.522,0.5222,0.1,0.542,1,0.0164,0.0323,650,519,131,5,10
